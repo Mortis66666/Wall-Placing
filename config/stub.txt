@@ -1,0 +1,6 @@
+read WIDHT:int HEIGHT:int
+gameloop
+read X:int Y:int
+read opponentX:int opponentY:int
+read nbWalls:int
+loop nbWalls read ax:int ay:int bx:int by:int
