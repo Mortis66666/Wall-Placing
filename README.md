@@ -1,4 +1,4 @@
-This project is the skeleton for the creation of a game using the Game Engine Toolkit of [CodinGame](https://codingame.com).
+This project is ~~the skeleton for the creation of a game using the Game Engine Toolkit of [CodinGame](https://codingame.com).~~ just for testing
 
 Check the documentation on the [github repository](https://github.com/CodinGame/codingame-sdk-doc).
 
