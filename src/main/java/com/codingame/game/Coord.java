@@ -14,6 +14,8 @@ public class Coord {
         return String.format("%d %d", x, y);
     }
 
+
+    @Override
     public boolean equals(Object oth) {
         Coord other = (Coord) oth;
         return x == other.x && y == other.y;
