@@ -1,4 +1,4 @@
-read WIDHT:int HEIGHT:int
+read WIDTH:int HEIGHT:int
 gameloop
 read X:int Y:int
 read opponentX:int opponentY:int
